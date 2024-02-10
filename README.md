@@ -10,7 +10,7 @@ Through strategic questioning and deduction, we aim to narrow down the possibili
 
 ## Try it now ! 🚀
 
-[Insert gif or link to demo](https://kalyan1045.github.io/Guess-My-Number/)
+[Visit Site](https://kalyan1045.github.io/Guess-My-Number/)
 
 
 ## Tech Stack
