@@ -25,4 +25,4 @@ Through strategic questioning and deduction, we aim to narrow down the possibili
 
 ## Fun Fact ✍️
 
-This project started when my friend and I wanted to play the game in real life, but we got bored. So, we decided to solve the same problem by writing code instead. 😂
+This project started when my friend and I wanted to play the game irl, but we got bored. So, we decided to solve the same problem by writing code instead. 😂
